@@ -1,0 +1,4 @@
+product_code,quantity,price,status
+CRD-001,10,125.50,active
+,5,200,pending
+CRD-003,-2,abc,wrong
